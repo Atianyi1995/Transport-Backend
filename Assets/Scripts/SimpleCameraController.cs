@@ -8,6 +8,8 @@ namespace UnityTemplateProjects
 {
     public class SimpleCameraController : MonoBehaviour
     {
+      
+
         class CameraState
         {
             public float yaw;
